@@ -1,6 +1,7 @@
 #include "cylinder.h"
 #include "../..//Shape2D/Polygon/Quadrilateral/rectangle.h"
-#include "math.h"
+#define _USE_MATH_DEFINES // for C  
+#include <math.h>
 
 
 
